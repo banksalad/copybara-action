@@ -97,7 +97,7 @@ inputs:
   copybara_image:
     description: "Copybara Docker image to run."
     required: false
-    default: "olivr/copybara"
+    default: "649962636948.dkr.ecr.ap-northeast-2.amazonaws.com/copybara"
 
   copybara_image_tag:
     description: "Copybara Docker image tag to use."
